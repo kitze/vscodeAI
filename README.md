@@ -41,6 +41,7 @@ Visual Studio Code
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <a href="https://supermac.io/?ref=kitze%2FvscodeAI"><img src="https://supermac.io/assets/swiftcast-logo.png" width="48" alt="Supermac logo"></a><br>
       <strong><a href="https://supermac.io/?ref=kitze%2FvscodeAI">Supermac</a></strong><br>
       A macOS command center for everyday workflows.
     </td>
@@ -203,17 +204,18 @@ Licensed under the [MIT](LICENSE.txt) license.
       Sell and manage access to private GitHub repositories.
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://glink.so/kitze/labz?ref=kitze%2FvscodeAI">Labz</a></strong><br>
-      A platform for teaching workshops and courses.
+      <strong><a href="https://justwrite.ink/?ref=kitze%2FvscodeAI">JustWrite</a></strong><br>
+      Distraction-free writing sprints for macOS, with time or word-count goals.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://justwrite.ink/?ref=kitze%2FvscodeAI">JustWrite</a></strong>
-    </td>
-    <td width="50%" valign="top">
       <strong><a href="https://releaseflow.net/?ref=kitze%2FvscodeAI">Releaseflow</a></strong><br>
       App updates and downloads.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://passlock.to/?ref=kitze%2FvscodeAI">Passlock</a></strong><br>
+      A macOS password manager with time locks and unlock challenges.
     </td>
   </tr>
 </table>
